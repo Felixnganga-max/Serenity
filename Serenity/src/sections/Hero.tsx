@@ -7,7 +7,7 @@ import SparkleImage from "@/assets/icons/sparkle.svg";
 import { HeroOrbit } from "@/components/HeroOrbit";
 export const HeroSection = () => {
   return (
-    <div className="py-32 md:py-48 lg:py-60 relative z-0 overflow-x-clip">
+    <div className="py-16 md:py-32 lg:py-48 relative z-0 overflow-x-clip">
       <div
         className="absolute inset-0 -z-30 opacity-5"
         style={{
