@@ -73,13 +73,10 @@ export const HeroSection = () => {
       </div>
       <div className="m-w-lg mx-auto">
         <h1 className="font-serif md:text-5xl text-2xl text-center mt-8 tracking-wide">
-          Making your business come to live by designing and building
-          exceptional user experiences
+          Your dreams come true
         </h1>
         <p className="mt-4 text-center text-white/60 md:text-xl">
-          I specialize in creative designs and highly functional web perfoming
-          applications, I am available to discuss the needs of your business.
-          Let&apos;s get started today and create the future of the next big thing.
+         We brigde the distance between your dream software and the reality
         </p>
       </div>
       <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
