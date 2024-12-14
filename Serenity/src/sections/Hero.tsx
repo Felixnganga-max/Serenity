@@ -79,7 +79,7 @@ export const HeroSection = () => {
         <p className="mt-4 text-center text-white/60 md:text-xl">
           I specialize in creative designs and highly functional web perfoming
           applications, I am available to discuss the needs of your business.
-          Let's get started today and create the future of the next big thing.
+          Let&apos;s get started today and create the future of the next big thing.
         </p>
       </div>
       <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4">
@@ -89,7 +89,7 @@ export const HeroSection = () => {
         </button>
         <button className="inline-flex items-center gap-2 border-white bg-white text-gray-900 h-12 px-6 rounded-xl">
           <span>🤝</span>
-          <span className="font-semibold ">Let's Connect</span>
+          <span className="font-semibold ">Let&apos;s Connect</span>
         </button>
       </div>
     </div>
